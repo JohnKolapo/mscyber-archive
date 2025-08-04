@@ -11,3 +11,9 @@ Browse my complete coursework and research (2024 – 2025).
 | INCS720 — Computer Networks | [Go](INCS720-ComputerNetworks) |
 | INCS702 — Algorithm Concepts | [Go](INCS702-AlgorithmConcepts) |
 | INCS750 — Digital Forensics | [Go](INCS750-DigitalForensics) |
+
+
+
+![Degree](https://img.shields.io/badge/Degree-Conferral_Aug_31_2025-blue)
+![GPA](https://img.shields.io/badge/GPA-3.09-lightgrey)
+![License](https://img.shields.io/github/license/JohnKolapo/mscyber-archive)
